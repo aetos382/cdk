@@ -1,0 +1,10 @@
+<Project>
+    <PropertyGroup>
+        <DefaultItemExcludes>
+            $(DefaultItemExcludes);
+            node_modules/**/*;
+            cdk.out/**/*;
+            package-lock.json
+        </DefaultItemExcludes>
+    </PropertyGroup>
+</Project>

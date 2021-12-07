@@ -1,0 +1,3 @@
+{
+  "app": "dotnet run --project CdkV2.csproj"
+}
